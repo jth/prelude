@@ -1,8 +1,22 @@
-* News                                                               :elfeed:
-** [[https://www.reutersagency.com/feed/?best-topics=political-general&post_type=best][Reuters Political]]
-** [[https://www.heise.de/rss/heise-Rubrik-IT.rdf][Heise IT News]]
-** [[http://www.presseportal.de/rss/polizei/laender/3.rss2][Blaulicht Berlin]]
-** [[https://www.presseportal.de/rss/politik.rss2][PressePortal Politik]]
-** [[http://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_40][Washington Post World]]
-* Blogs :elfeed:
-** [[https://blog.fefe.de/rss.xml][Fefes Blog]]
+* Feeds :elfeed:
+** News                                                              :news:
+*** [[https://www.reutersagency.com/feed/?best-topics=political-general&post_type=best][Reuters Political]]                                                :agency:
+*** [[http://www.presseportal.de/rss/polizei/laender/3.rss2][Blaulicht Berlin]]
+*** [[https://www.presseportal.de/rss/politik.rss2][PressePortal Politik]]                                             :agency:
+*** [[http://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_40][Washington Post World]]
+*** [[http://rss.cnn.com/rss/edition_europe.rss][CNN Europe]]
+*** [[https://www.nationalreview.com/feed][National Review]]
+*** [[http://www.xinhuanet.com/english/rss/worldrss.xml][XinHua]]                                                           :agency:
+*** [[https://www.rt.com/rss/][RT]]
+*** [[https://www.tagesschau.de/xml/rss2/][Tagesschau]]
+*** [[https://www.nknews.org/category/north-korea-news-podcast/feed/][NK News]] :nk:
+*** [[https://www.dailynk.com/english/rss-feed/][DailyNK]] :nk:
+** Blogs                                                              :blogs:
+*** [[https://blog.fefe.de/rss.xml][Fefes Blog]]
+** Tech                                                                :tech:
+*** [[https://blog.rust-lang.org/feed.xml][Rust Main]]                                                          :rust:
+*** [[https://blog.rust-lang.org/inside-rust/feed.xml][Inside Rust]]                                                        :rust:
+*** [[https://www.heise.de/rss/heise-Rubrik-IT.rdf][Heise IT News]]
+*** [[https://planet.emacslife.com/atom.xml][Planet Emacsen]]
+** Misc                                                                :misc:
+*** [[https://www.rki.de/SiteGlobals/Functions/RSSFeed/RSSGenerator_nCoV.xml][RKI Covid]]
