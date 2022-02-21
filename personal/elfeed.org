@@ -1,0 +1,8 @@
+* News                                                               :elfeed:
+** [[https://www.reutersagency.com/feed/?best-topics=political-general&post_type=best][Reuters Political]]
+** [[https://www.heise.de/rss/heise-Rubrik-IT.rdf][Heise IT News]]
+** [[http://www.presseportal.de/rss/polizei/laender/3.rss2][Blaulicht Berlin]]
+** [[https://www.presseportal.de/rss/politik.rss2][PressePortal Politik]]
+** [[http://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_40][Washington Post World]]
+* Blogs :elfeed:
+** [[https://blog.fefe.de/rss.xml][Fefes Blog]]
