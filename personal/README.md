@@ -18,8 +18,8 @@ Some things to note:
 
 ## GnuPG for commit signature
 1. Install GnuPG: `scoop install gpg`
-2. Import your gpg-key, for scoop the location of `pubring.kbx` / `private-keys-v1.d` is
-   `%USERPROFILE%\scoop\apps\gpg\current\home`, verify that `gpg --list-keys` `gpg --list-secret-keys` lists them key.
+2. Import your gpg-key: For scoop the location of `pubring.kbx` / `private-keys-v1.d` is
+   `%USERPROFILE%\scoop\apps\gpg\current\home`, verify that `gpg --list-keys` and `gpg --list-secret-keys` lists them.
 3. Use `git config --global user.signingkey 123abc` and `git config --global commit.gpgsign true` to tell git to
    sign commits with the specific key
 4. Tell git where to look for gpg: `git config --global gpg.program "C:\Users\jth\scoop\apps\gpg\current\bin\gpg.exe"`
