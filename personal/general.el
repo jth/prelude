@@ -12,3 +12,6 @@
 ;; Highlight overly long lines
 (require 'whitespace)
 (setq whitespace-line-column 120)
+
+;; Disable scrollbar
+(toggle-scroll-bar -1)
