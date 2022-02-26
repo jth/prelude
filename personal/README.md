@@ -31,3 +31,14 @@ You might want to disable these when using the windows key as `super`-key.
 2. Navigate to `User Configuration -> Administrative Templates -> Windows Components -> File Explorer`
 3. Set `Turn Off Windows Hotkeys` to `Enabled`
 4. Reboot
+
+## Rust Development
+1. Install `rust-analyzer` (`brew install rust-analyzer`)
+2. Execute `rustup component add rls rust-analysis rust-src`
+
+| What?             | How?                 |
+|:------------------|:---------------------|
+| Peek Definition   | M-.                  |
+| Enable doc popups | lsp-ui-sideline-mode |
+| File structure    | lsp-ui-imenu         |
+| Jump to method    | C-c i                |
