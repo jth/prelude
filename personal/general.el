@@ -15,3 +15,5 @@
 
 ;; Disable scrollbar
 (toggle-scroll-bar -1)
+;; Render images by default (C-c C-c / C-c C-x to switch)
+(setq auto-image-file-mode t)
