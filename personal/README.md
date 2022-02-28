@@ -42,3 +42,9 @@ You might want to disable these when using the windows key as `super`-key.
 | Enable doc popups | lsp-ui-sideline-mode |
 | File structure    | lsp-ui-imenu         |
 | Jump to method    | C-c i                |
+| Find file         | C-c p f              |
+| cargo build       | C-c C-c C-b          |
+| cargo clean       | cargo-process-clean  |
+| rustfmt           | C-c C-f              |
+| projectile rg     | C-c p s r            |
+| projectile vc     | C-c p v              |
