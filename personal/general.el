@@ -13,9 +13,6 @@
 (require 'whitespace)
 (setq whitespace-line-column 120)
 
-;; Disable scrollbar
-(toggle-scroll-bar -1)
-;; Render images by default (C-c C-c / C-c C-x to switch)
-(setq auto-image-file-mode t)
-
-(auto-revert-mode 't)
+(toggle-scroll-bar -1) ;; Disable scrollbar
+(setq auto-image-file-mode t) ;; Render images by default (C-c C-c / C-c C-x to switch)
+(auto-revert-mode 't) ;; Enable auto-revert mode by default
